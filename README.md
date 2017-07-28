@@ -15,4 +15,4 @@ This application was made using PHP, Bootstrap, CSS and HTML
   `sudo cp from/path/{back.png,WScrapper.php} /var/www/html/`<br>
 3. Now simply type http://localhost//WScrapper.php and hit enter.
 
-Any changes trying to improve the app are welcome.
+Any changes aimed at improving the app are welcome.
